@@ -1,0 +1,25 @@
+#tresEnRaya .col{
+    outline: 1px solid black;
+    height: 150px;
+    width: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#containerTresEnRaya{
+    margin: auto;
+    width: 450px;
+    margin-top: 80px;
+    outline: 2px solid black;
+    font-size: 30px;
+    background-color: rgb(27, 155, 116);
+    
+}
+#containerTresEnRaya img{
+    width: 90%;
+}
+
+body{
+    background-color: #dbfff3;
+}
